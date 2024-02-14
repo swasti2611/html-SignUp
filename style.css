@@ -1,0 +1,80 @@
+body{
+    background: #000000;
+    font-family: inter;
+}
+input{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+}
+form{
+    width:60%;
+    height: 500px;
+    background: #000000;
+padding: 10px;
+    color:#fff;
+    font-family: inter;
+  position: absolute;
+  left:20%;
+  top: 10%;
+}
+#name{
+    width:400px;
+    margin-top: 20px;
+    background: #000000;
+    border: 0;
+    outline: none;
+}
+#email{
+    width:400px;
+    margin-top: 20px;
+    background: #000000;
+    border: 0;
+    outline: none;
+}
+#password{
+    width:400px;
+    margin-top: 20px;
+    background: #000000;
+    border: 0;
+    outline: none;
+}
+#confirm{
+    width:400px;
+    margin-top: 20px;
+    background: #000000;
+    border: 0;
+    outline: none;  
+}
+#date{
+width:400px;
+margin-top: 20px;
+background: #000000;
+border: 0;
+outline: none;
+}
+#radio-s{
+   display: inline-block; 
+   border: #fff;
+   background-color: #000000;
+  
+}
+#radio-e{
+    display: inline-block;
+     border: #fff;
+    background-color:  #000000;
+}
+#checkbox{
+    margin-top: 20px;
+    border:1px #fff;
+    background-color: #000000;
+}
+#btn{
+    display: block;
+    margin-top: 20px;
+    width:100px;
+    height: 30px;
+    padding: 5px;
+   
+}
